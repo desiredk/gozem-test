@@ -1,0 +1,1 @@
+(self.webpackChunk_N_E=self.webpackChunk_N_E||[]).push([[7993],{63979:function(n,_,e){(window.__NEXT_P=window.__NEXT_P||[]).push(["/web/admin/delivery/DeliveryList",function(){return e(99358)}])}},function(n){n.O(0,[7536,7693,8468,2216,7533,9774,2888,179],function(){return n(n.s=63979)}),_N_E=n.O()}]);

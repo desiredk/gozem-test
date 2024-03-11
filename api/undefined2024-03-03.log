@@ -1,0 +1,6 @@
+2024-03-03 05:02:55.950 - INFO - Successfully connected to Mongodb   
+2024-03-03 05:02:57.331 - INFO -  --- method : Get All --- entityName : Delivery    [{"_id":"65ddff29dd521c861d3b2014","pickup_time":"2024-02-27T13:34:42.000Z","start_time":"2024-02-27T13:34:42.000Z","end_time":"2024-02-27T13:34:42.000Z","location":{"lat":5,"lng":7.255},"status":"picked-up","package":"65ddde792d96b175823ae9c0","isNotDelete":true,"createdAt":"2024-02-27T15:26:33.954Z","updatedAt":"2024-02-27T15:26:33.954Z","__v":0}]
+2024-03-03 05:03:46.192 - INFO - Successfully connected to Mongodb   
+2024-03-03 05:06:10.807 - INFO - Successfully connected to Mongodb   
+2024-03-03 05:07:07.258 - INFO - Successfully connected to Mongodb   
+2024-03-03 17:49:50.576 - INFO - Successfully connected to Mongodb   

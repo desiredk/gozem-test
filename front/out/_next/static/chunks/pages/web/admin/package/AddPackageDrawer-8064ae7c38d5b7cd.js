@@ -1,0 +1,1 @@
+(self.webpackChunk_N_E=self.webpackChunk_N_E||[]).push([[3501],{59749:function(n,_,e){(window.__NEXT_P=window.__NEXT_P||[]).push(["/web/admin/package/AddPackageDrawer",function(){return e(20872)}])}},function(n){n.O(0,[7536,2216,3539,872,9774,2888,179],function(){return n(n.s=59749)}),_N_E=n.O()}]);

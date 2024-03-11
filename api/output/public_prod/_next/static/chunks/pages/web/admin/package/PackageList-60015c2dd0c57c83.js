@@ -1,0 +1,1 @@
+(self.webpackChunk_N_E=self.webpackChunk_N_E||[]).push([[8931],{69843:function(n,_,u){(window.__NEXT_P=window.__NEXT_P||[]).push(["/web/admin/package/PackageList",function(){return u(72890)}])}},function(n){n.O(0,[7536,7693,8468,2216,3539,872,9965,9774,2888,179],function(){return n(n.s=69843)}),_N_E=n.O()}]);

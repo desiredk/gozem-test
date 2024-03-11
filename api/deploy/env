@@ -1,0 +1,11 @@
+APP_PORT=9007
+NODE_ENV=production # production ; development ; test
+
+LOGS_PATH=../all-logs/package-tracker/log-
+
+UPLOADS=../uploads/
+UPLOADS_URL=/uploads/
+
+OUTPUT_URL=/output/
+
+TYPES_OF_LOGIN=["adLogin", "checkPinLogin", "ourOwnLogin"]

@@ -1,0 +1,26 @@
+{
+  "development": {
+    "username": "",
+    "password": "",
+    "database": "package_tracker_production",
+    "host": "127.0.0.1",
+    "port": 27017,
+    "publicFolder": "public_prod"
+  },
+  "test": {
+    "username": "",
+    "password": "",
+    "database": "package_tracker_test",
+    "host": "127.0.0.1",
+    "port": 27017,
+    "publicFolder": "public_test"
+  },
+  "production": {
+    "username": "ftapiuser",
+    "password": "FrenchT0ntine123",
+    "database": "package_tracker_production",
+    "host": "161.97.92.156",
+    "port": 27017,
+    "publicFolder": "public_prod"
+  }
+}

@@ -1,0 +1,15 @@
+version: "3.9"
+services:
+  gozemTestApi:
+    image: gozem-test:latest
+    volumes:
+      - /data/app/preprod/gozem-test:/data/app/preprod/gozem-test
+    ports:
+      - "9007:9007"
+      - "9008:9008"
+    deploy:
+      restart_policy:
+        condition: always
+        delay: 10s
+    env_file:
+    - env
